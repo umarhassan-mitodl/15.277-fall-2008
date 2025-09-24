@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 3908cbe7-0771-6b8f-7395-b8840bf01e15
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
+  name: Labs
+  pageRef: /pages/labs
+  weight: 20
+- identifier: fb2b4adb-a9fa-9c52-a69f-36977eff55c9
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 30
