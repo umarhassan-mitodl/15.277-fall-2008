@@ -5,6 +5,8 @@ description: Facilitator guide for the culture and leadership exercise to identi
 file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/0eba7ed5319427831bda264b1e7f38a0_guide_05.pdf
 file_size: 828192
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
